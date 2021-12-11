@@ -1,7 +1,5 @@
-#read a number for the user
+def main():
+#write you code
 
-
-# add 10
-
-
-#output "Done"
+if __name__ == '__main__':
+    main()
